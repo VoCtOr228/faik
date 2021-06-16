@@ -1,0 +1,164 @@
+main {
+   background-color: orange;
+    color: darkblue;    
+}
+
+header {
+    background-color: blue;
+    color: red;     
+}
+
+footer {
+    background-color: red;
+    color:  white;
+    position: fixed;
+    top: -150px;
+    right: 2px;
+    margin-top: 350px;
+    margin-bottom: 100px;
+    width: 119px;
+    height: 1000px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: wheat;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+
+}
+
+article {
+    background-color: white;
+    padding: 25px;
+    width: 400px;
+    margin: ;
+}
+
+
+
+footer {
+    background: #AC13A6;
+    padding: ;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+.one {
+margin: 30px;
+float: left;
+color: black;
+}
+
+.one:hover {
+    color: darkblue;
+    background-color: #E06969;
+}
+
+
+.one:visited {
+    color: darkblue;
+    background-color: #E06969;
+}
+
+.two{    
+    margin: 30px;
+    float: right;
+    color: black;
+}
+
+.two:hover {
+    color: darkblue;
+    background-color: #E06969;
+}
+
+
+.two:visited {
+    color: darkblue;
+    background-color: #ffd700;
+}
+
+.the{
+    margin: 30px;
+    float: left;
+    color: black;
+}
+
+.the:hover {
+    color: darkblue;
+    background-color: #ffd700;
+}
+
+
+.the:visited {
+    color: darkblue;
+    background-color: #E06969;
+}
+
+
+.fo{
+    margin: 30px;
+    float: right;
+    color: black;
+}
+
+.fo:hover {
+    color: darkblue;
+    background-color: #ffd700;
+}
+
+
+.fo:visited {
+    color: darkblue;
+    background-color: #E06969;
+}
+
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+}
+
+h5 {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 0 0 black;
